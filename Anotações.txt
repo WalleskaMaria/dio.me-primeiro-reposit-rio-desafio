@@ -1,0 +1,7 @@
+## INFORMAÇÕES SOBRE MARKDOWN, GIT E GITHUB :heavy_check_mark:
+
+Links:
+
+1) https://www.markdownguide.org/basic-syntax/
+2) https://git-scm.com/
+3) https://github.com/
