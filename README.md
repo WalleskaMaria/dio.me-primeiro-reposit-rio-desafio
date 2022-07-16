@@ -1,2 +1,2 @@
-# dio.me-primeiro-reposit-rio-desafio
+# dio.me-primeiro-repositório-desafio
 Dio-me (desafio)
